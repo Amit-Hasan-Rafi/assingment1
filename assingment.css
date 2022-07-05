@@ -1,0 +1,84 @@
+.headline-font{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+#head-discription {
+        padding: 0px 4%;
+        margin: 2% 2%;
+        font-weight: 700;
+        
+}
+#first-button{
+   
+    margin-left: 45%;
+    padding: 20px 40px;
+    color: white ;
+    font-weight: 700;
+    background-color: rgb(86, 36, 137);
+    border-radius: 10px;
+    border: none;
+    font-size: medium;
+   
+}
+#banner{
+    background-image: url(donation15.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    color:white;
+    height: 600px;
+    padding: 40px;
+}
+body{
+    margin: 0%;
+}
+.money{
+    box-shadow: 10px 10px 17px grey;
+    padding:10px 50px ;
+    border: none;
+    margin-left: 4%;
+}
+.flexible-container{
+    display: flex;
+    padding-left: 15%;
+    font-family:'Bebas Neue', cursive;
+    font-size:x-large;
+    
+}
+#second-button{
+    margin:5% 1%;
+    border-radius: 5px;
+    border: none;
+    background-color: hsl(334, 100%, 50%);
+    color: white;
+    padding:4px 3px;
+    
+}
+#bikash{
+    display: flex;
+    padding-left: 50%;
+    padding-top: 14px;
+}
+#bikash-icon{
+    height: 30px;
+    width : 35px;
+    padding-top: 28px;
+}
+.third-line{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.thied-line-h-one{
+    font-family:'Bebas Neue', cursive; 
+    text-align: center;
+    font-size: 50px; 
+}
+#third-line-fexible-container{
+    display: flex;
+}
+.trline-container{
+    margin: 2%;
+    margin-bottom: 10%;
+    padding: 3%; 
+    border:2px #E2136E solid;
+}
