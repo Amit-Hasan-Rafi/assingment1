@@ -72,13 +72,15 @@ body{
     font-family:'Bebas Neue', cursive; 
     text-align: center;
     font-size: 50px; 
+    
 }
 #third-line-fexible-container{
     display: flex;
 }
-.trline-container{
+.trline-container 
+{
     margin: 2%;
     margin-bottom: 10%;
     padding: 3%; 
-    border:2px #E2136E solid;
+    
 }
