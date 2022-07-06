@@ -1,5 +1,5 @@
 .headline-font{
-    font-family: 'Bebas Neue', cursive;
+    
     font-family: 'Lato', sans-serif;
     text-align: center;
 }
@@ -83,4 +83,91 @@ body{
     margin-bottom: 10%;
     padding: 3%; 
     
+}
+#forth-line{
+    display: flex;
+    
+}
+#forth-line img{
+    width: 80%;
+    margin-left: 15%;
+    box-shadow: 10px 10px 10px grey;
+    
+}
+#forthline-text{
+    padding: 3%;
+    margin-left: 5%;
+    background-color: rgba(128, 128, 128, 0.285);
+    border-radius: 7px;
+}
+.third-button{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    font-size: large;
+    margin-left: 70%;
+    margin-top: 10%;
+    margin-bottom: 0px;
+    border: none;
+    background-color: blueviolet;
+    color: azure;
+}
+#fifth-line{
+    display: flex;
+    margin-top: 10% ;
+}
+#fifth-line img{
+    width: 200%;
+   margin-left: 10%;
+    margin-top: 17%;
+    box-shadow: 10px 10px 10px grey;
+}
+#fifth-line-text{
+    width: 80%;
+    padding: 3%;
+    margin-left: 35%;
+    margin-right: 5%;
+    margin-bottom: 0;
+    margin-top: 0%;
+    background-color: rgba(128, 128, 128, 0.285);
+    border-radius: 7px;
+}
+#from-box{
+    border: none;
+    border-radius: 10px;
+    margin-left: 35%;
+    margin-right: 38%;
+    padding: 4%;
+    background-color: rgba(137, 43, 226, 0.171);
+  
+}
+#singup-butoon{
+    margin-top: 10%;
+    padding: 10px 100px;
+    margin-left: 10%;
+    border-radius: 10px;
+    border: none;
+    background-color: blueviolet;
+    color: aliceblue;
+    font-weight: 700;
+}
+#from{
+   padding-top: 8%;
+
+   margin-bottom: 10%;
+}
+.footer-h-one{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 4px
+
+}
+
+#footer{
+    background-color: rgba(0, 0, 0, 0.756);
+    color: rgb(255, 255, 255);
+    
+    padding-bottom: 2%;
 }
